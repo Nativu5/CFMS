@@ -27,7 +27,7 @@
 
 ### 使用入门
 
-> 各模块的详细介绍请参见 [Wiki](https://github.com/Nativu5/CFMS) 页面。
+> 各模块的详细介绍请参见 [Wiki](https://github.com/Nativu5/CFMS/wiki) 页面。
 
 1. 初次打开软件会提示新建用户，单击登录页面的注册按钮以注册新用户。
    * 第一位用户将自动被赋予超级管理员权限。
