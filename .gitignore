@@ -1,0 +1,10 @@
+# DEBUG AND RELEASE
+/debug
+/release
+.qmake.stash
+CFMS
+*.user
+*.Debug
+*.Release
+*.stash
+Makefile
