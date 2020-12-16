@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/image"/>
+    <qresource prefix="/">
+        <file>icon/arrows_square_minus.png</file>
+        <file>icon/arrows_square_plus.png</file>
+        <file>icon/basic_calculator.png</file>
+        <file>icon/basic_elaboration_briefcase_upload.png</file>
+        <file>icon/basic_floppydisk.png</file>
+        <file>icon/basic_lock_open.png</file>
+        <file>icon/basic_sheet.png</file>
+        <file>icon/basic_sheet_pen.png</file>
+        <file>icon/basic_trashcan_refresh.png</file>
+        <file>icon/basic_sheet_txt.png</file>
+    </qresource>
+</RCC>

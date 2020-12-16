@@ -1,0 +1,17 @@
+debug/dialogabout.o
+debug/dialoghistory.o
+debug/dialoglogin.o
+debug/dialogreg.o
+debug/dialogusermanage.o
+debug/main.o
+debug/mainwindow.o
+debug/qaesencryption.o
+debug/settings.o
+debug/qrc_res.o
+debug/moc_dialogabout.o
+debug/moc_dialoghistory.o
+debug/moc_dialoglogin.o
+debug/moc_dialogreg.o
+debug/moc_dialogusermanage.o
+debug/moc_mainwindow.o
+debug/moc_qaesencryption.o
