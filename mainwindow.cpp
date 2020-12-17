@@ -408,7 +408,7 @@ void MainWindow::on_bntDefaultFilter_clicked()
     tabModel->select();                                                  // 应用
 }
 
-void MainWindow::on_bntApply_clicked()
+void MainWindow::on_bntApply_clicked()  // 应用过滤条件
 {
     if (tabModel->isDirty())
     {

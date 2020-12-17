@@ -5,6 +5,4 @@
 #include <QDataWidgetMapper>
 #include <QtSql>
 
-
-
 #endif // SQL_H
