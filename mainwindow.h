@@ -48,11 +48,8 @@ private slots:
     void on_bntDefaultFilter_clicked();
     void on_bntApply_clicked();
     void on_PieSliceHighlight(bool show);
-
     void on_bntChartDisplay_clicked();
-
     void on_actUser_triggered();
-
     void on_actNew_triggered();
 
 private:

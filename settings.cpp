@@ -60,7 +60,7 @@ namespace settings
             throwErr();
         return jsonDoc;
     }
-    void get_config() // 为 userObj/userlist/usercount 提供初值；
+    void get_config() // 为 configObj/userlist/usercount 提供初值；
     {
         QJsonDocument configDoc = settings::read_json("config.dat");
         if (!configDoc.isObject())    // 最外层应为对象, 如果不是直接报错；

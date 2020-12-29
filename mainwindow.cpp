@@ -183,7 +183,6 @@ void MainWindow::on_actOpen_triggered()
 
 void MainWindow::on_btnUpdate_clicked()
 {
-
     if(settings::curUserPermisson == 0)
     {
         QMessageBox::critical(this, "错误", "用户无权限！");

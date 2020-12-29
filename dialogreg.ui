@@ -10,7 +10,7 @@
     <x>0</x>
     <y>0</y>
     <width>388</width>
-    <height>339</height>
+    <height>383</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -153,7 +153,7 @@
          <enum>Qt::DefaultContextMenu</enum>
         </property>
         <property name="text">
-         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;1. 第一位注册用户将成为超级管理员，可以修改其他用户的权限；&lt;/p&gt;&lt;p&gt;2. 用户一经注册，为保障数据安全，将无法找回密码。请妥善保管好您的用户信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;1. 第一位注册用户将成为超级管理员，可以修改其他用户的权限；&lt;/p&gt;&lt;p&gt;2. 用户名 3~10 位，密码 6 ~ 16 位，均只能包含字母、数字、-、_；&lt;/p&gt;&lt;p&gt;3. 用户一经注册，为保障数据安全，将无法找回密码。请妥善保管好您的用户信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
         </property>
         <property name="scaledContents">
          <bool>false</bool>
